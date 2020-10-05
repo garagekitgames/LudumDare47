@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Obi/Samples/RopeAndRod/WrapTheRope.unity
+    guid: fc2b8ae2ba09f45b7be65218f74cd121
+  - enabled: 0
+    path: Assets/Scenes/staging.unity
+    guid: f57187cd130f7934f9d41583d7bba6d9
+  - enabled: 0
+    path: Assets/WrappingRope/Demo/Anchoring.unity
+    guid: a7b290b7a00545d49a8ada4548405d7f
+  - enabled: 1
+    path: Assets/_Scenes/staging_WrapRope.unity
+    guid: 147a20270fe732e40832c6ad081c8de8
+  - enabled: 0
+    path: Assets/WrappingRope/Demo/Event.unity
+    guid: 4723ec7af7ae95c4a81097529642c59b
   m_configObjects: {}

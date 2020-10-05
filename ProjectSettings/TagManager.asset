@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Piece
+  - Enemy
+  - Start
+  - End
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -13,6 +18,13 @@ TagManager:
   - UI
   - 
   - 
+  - Coll
+  - Player
+  - Start
+  - Piece
+  - Walls
+  - Enemy
+  - Bullet
   - 
   - 
   - 
@@ -29,14 +41,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
   m_SortingLayers:
   - name: Default
     uniqueID: 0
